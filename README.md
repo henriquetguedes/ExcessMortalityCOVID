@@ -1,6 +1,6 @@
 # ExcessMortalityCOVID
 
-## Excess mortality during COVID-19 in five different European countries and a critique of mortality surveillance data
+## Excess mortality during COVID-19 in five different European countries and a critique of mortality surveillance data - [Paper](https://www.medrxiv.org/content/10.1101/2020.04.28.20083147v1)
 
 This is a repository for data used in the aforementioned paper. Here you can find data for all five countries, total and subtotal deaths per day/week, which would enable you to replicate and better criticise our findings.
 
